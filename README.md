@@ -1,4 +1,4 @@
-# Mr.Robot-Trivia
+# Mr.Robot Trivia
 ![Mr. Robot Trivia Icon](/images/icon-small.png)
 
 
